@@ -1,0 +1,20 @@
+{
+  "name": "JSOjs",
+  "main": "jso.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kotnik/jso",
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  },
+  "authors": [
+    "Andreas Åkre Solberg <andreas.solberg@uninett.no>"
+  ],
+  "ignore": [
+    ".gitignore"
+  ],
+  "description": "Javascript OAuth 2.0 library",
+  "keywords": [
+    "oauth2"
+  ],
+  "license": "LGPL-2.1"
+}
